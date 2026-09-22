@@ -1,2 +1,3 @@
-# mysql-cafe2
-Learning lab for connecting an AI assistant (GitHub Copilot) to a MySQL database via MCP
+# MySql
+
+This project is a learning lab for connecting an AI assistant to a MySQL database.
